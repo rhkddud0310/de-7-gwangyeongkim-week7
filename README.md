@@ -4,7 +4,7 @@
 - Cohort: 7기
 
 ## 실습 환경
-- 실습 환경 작성 예정
+- Apple Silicon M2 MacBook Air, Docker, Airflow 2.9.2 환경
 
 ## 회고
-- 이번 주차 회고 작성 예정
+- Git 브랜치 전략 실습과 Airflow Docker 환경에서의 파이프라인 연동 실습 진행
